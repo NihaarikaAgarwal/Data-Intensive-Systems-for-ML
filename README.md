@@ -6,12 +6,13 @@ This repository contains a series of hands-on assignments completed for the grad
 
 ##  Repository Structure
 
+```
 ml-systems-assignments/
 ├── matrix-multiplication-performance/ # Project 1: Reverse-mode autodiff
 ├── autodiff-engine/ # Project 2: CUDA-based MLP executor 
 ├── gpu-mlp-executor/ # Project 3: Scala, Spark, Breeze 
 └── README.md # Top-level summary
-
+```
 
 ---
 
