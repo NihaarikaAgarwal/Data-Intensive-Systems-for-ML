@@ -10,7 +10,7 @@ This repository contains a series of hands-on assignments completed for the grad
 ml-systems-assignments/
 ├── autodiff-engine/ # Project 1: Reverse-mode autodiff
 ├── gpu-mlp-executor/ # Project 2: CUDA-based MLP executor 
-├── matrix-multiplication-performance/ # Project 3: Scala, Spark, Breeze
+├── matrix-multiplication-performance/ # Project 3: Scala, Spark, Breeze 
 └── README.md 
 ```
 
